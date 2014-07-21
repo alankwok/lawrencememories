@@ -6,7 +6,8 @@
 		version     = "1.0" >	
 	<name>Lawrence Memories</name>
 	<description>愛寫作，愛美食，愛攝影的80前。樂於分享美味的食物，美麗的照片，美好的文章。有與趣的話，也歡迎瀏覽我的個人網誌：http://lawrencememories.blogspot.hk/</description>
-	<author href="http://eaaatup.com" email="alankwok@yahoo.com">Eaatup.com</author>	
+	<author href="http://eaaatup.com" email="alankwok@yahoo.com">Eaatup.com</author>
+	<preference name="permissions" value="none" />	
 	<icon src="icons/apple-touch-icon-57-precomposed.png" gap:platform="ios" width="57" height="57" />
 	<icon src="icons/apple-touch-icon-72-precomposed.png" gap:platform="ios" width="72" height="72" />
 	<icon src="icons/apple-touch-icon-114-precomposed.png" gap:platform="ios" width="114" height="114" />		
